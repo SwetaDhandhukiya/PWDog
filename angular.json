@@ -77,7 +77,8 @@
             "scripts": [],
             "assets": [
               "src/fav.ico",
-              "src/assets"
+              "src/assets",
+              "manifest.json"
             ]
           }
         },
